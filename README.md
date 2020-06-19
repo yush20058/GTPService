@@ -10,7 +10,7 @@ GoAutomation项目的详细说明：http://www.caiyiwen.tech/article/GoAutomatio
 
 根目录下各子目录说明：
 
-（PhoenixGo） - 绝艺围棋GTP，此目录未保存到GitHub，若需使用可自行从https://github.com/Tencent/PhoenixGo/releases下载
+（PhoenixGo） - 绝艺围棋GTP，此目录未保存到GitHub，若需使用可自行从https://github.com/Tencent/PhoenixGo/releases 下载
 
 Leela - Leela围棋引擎GTP
 
