@@ -83,6 +83,7 @@ public abstract class GTP
         in.println(command);
         in.flush();
     }
+    public abstract void init(int size);
     public void init(List<String>list,int size)
     {
         try
@@ -139,7 +140,7 @@ public abstract class GTP
         }
         if(process!=null)
         {
-            process.destroy();
+            exe_command("quit");
         }
     }
 }
