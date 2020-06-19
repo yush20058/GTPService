@@ -18,7 +18,7 @@ LeelaZero - LeelaZero围棋引擎GTP
 
 GNUGo - GNUGo围棋引擎GTP
 
-src目录下个文件说明：
+src目录下各文件说明：
 
 GTP.java - 围棋GTP引擎抽象类
 
