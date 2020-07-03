@@ -24,6 +24,7 @@ public class GTP_vs_GTP extends JFrame
         arc=length/19.0;
         setLocationRelativeTo(null);
         setResizable(false);
+		setDefaultCloseOperation(3);
         black_gtp=black;
         white_gtp=white;
     }
